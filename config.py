@@ -1,0 +1,6 @@
+customhost = "emp-database-1.cxsstfakwlfl.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "kukku1998"
+customdb = "swapnil"
+custombucket = "emp-collection-s3"
+customregion = "us-east-1"
